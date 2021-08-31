@@ -1,2 +1,2 @@
 # Database-Management-Systems
-This is my CIS-205 course at CCP.
+These are the assignments for CIS-205 course at CCP.
