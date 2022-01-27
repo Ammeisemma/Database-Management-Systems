@@ -1,0 +1,7 @@
+List the full names of the students who have taken a CIS course or a History course
+
+List the full names and GPA of the students who have taken a course
+
+List the full names and GPA of the students who have not taken a course
+
+List the full names and GPA of the students who have taken a course a 3 credit course 
