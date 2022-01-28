@@ -1,0 +1,17 @@
+This file contains the schemas to normalize for the assignments in this directory.
+
+FirstNormalizationEA.pdf
+Emp (eid, ename, address, skill1, skill2, skill3, skill4, degree)
+
+Place the schema listed above into First Normal form.
+--
+
+NormalizationAssignments.pdf
+Student(Name, Address, Grade1, Grade2, Grade3, Course1, Course2, Course3, Degree’s)              
+--
+
+SecondNormalization.pdf
+worker_proj (wid, pnumber, hours,  lname, pname)
+
+Place the schema listed above into Second Normal Form.
+--
