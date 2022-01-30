@@ -1,0 +1,1 @@
+Go to folder with all database and you'll find the mysqlsampledatabase.sql which is the one for this assigment.
